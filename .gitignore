@@ -1,0 +1,12 @@
+# ignore IDE related file
+.classpath
+.project
+.idea
+
+# ignore compiled java file
+*.class
+*.iml
+
+# ignore all inside compiled folder
+build/
+/bin/
